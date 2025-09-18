@@ -14,8 +14,14 @@ I specialize in **ASP.NET Core, SQL Server, React + TypeScript**, and I enjoy bu
 - SQL Server, Stored Procedures  
 - React + TS, Material UI, Vite  
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=siraprapa123&show_icons=true&theme=radical)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+</p>
 
 ## 🌐 Social
 [LinkedIn](https://www.linkedin.com/in/siraprapa-vijitjamnong-0a8aaa263) | [Fastwork](https://fastwork.co/user/fravkkri)
