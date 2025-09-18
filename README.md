@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**siraprapa10/siraprapa10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 สวัสดีครับ ผมคือ Siraprapa Vijitjamnong
 
-Here are some ideas to get you started:
+## 💻 เกี่ยวกับฉัน
+- 🔭 กำลังพัฒนา: ระบบ ASP.NET Core + React + TypeScript  
+- 🌱 กำลังเรียนรู้: OAuth2, Cloud Backup, Data Visualization  
+- 👯 สนใจร่วมงาน: Freelance และโปรเจค Web Application  
+- 📫 ติดต่อ: [siraprapa.name@gmail.com]  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- C#, ASP.NET Core, Entity Framework  
+- SQL Server, Stored Procedures  
+- React + TS, Material UI, Vite  
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=siraprapa123&show_icons=true&theme=radical)
+
+## 🌐 Social
+[LinkedIn](https://www.linkedin.com/in/siraprapa-vijitjamnong-0a8aaa263) | [Fastwork](https://fastwork.co/user/fravkkri)
+
