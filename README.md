@@ -7,7 +7,7 @@ I specialize in **ASP.NET Core, SQL Server, React + TypeScript**, and I enjoy bu
 - 🔭 Currently working on: Service Management & Cloud Backup Systems  
 - 🌱 Learning: OAuth2, RESTful APIs, and Frontend UI/UX with Material UI  
 - 👯 Open to: Freelance opportunities and collaborative projects  
-- 📫 Reach me: [siraprapa.name@gmail.com]  
+- 📫 Reach me: [siraprapa.name58@gmail.com]  
 
 ## 🛠️ Tech Stack
 - C#, ASP.NET Core, Entity Framework  
