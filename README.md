@@ -35,6 +35,7 @@ I specialize in **ASP.NET Core, SQL Server, React + TypeScript**, and I enjoy bu
 
 # 👩‍💻 Portfolio
 - StockPilot V.Demo : https://stockpilot-mockup-dqqf.vercel.app
+  pass: stockpilot2026
 
 ## 💼 Work Experience
 
